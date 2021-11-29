@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE mycat:schema SYSTEM "schema.dtd">
+<mycat:schema xmlns:mycat="http://io.mycat/">
+
+        <schema name="TESTDB" checkSQLschema="true" sqlMaxLimit="100" randomDataNode="dn1">
+        </schema>
+
+       
+
+</mycat:schema>
